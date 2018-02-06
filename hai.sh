@@ -1,3 +1,4 @@
 echo "hai"
-read name;
-echo $name;
+echo "enter your place"
+read pl;
+echo $pl;
