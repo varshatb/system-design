@@ -4,3 +4,4 @@ read sa
 echo "Name : "$na
 echo "Salary : "$sa
 
+ftftftf
